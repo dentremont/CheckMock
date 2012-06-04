@@ -1,0 +1,9 @@
+.project-container .item {
+	width: 200px;
+	margin-right: 30px;
+	display: inline;
+	float: left;
+}
+.project-container ul {
+	margin: 0;
+}
